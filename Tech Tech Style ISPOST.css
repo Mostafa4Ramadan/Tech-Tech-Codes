@@ -1,0 +1,31 @@
+          .post-body ol li 
+{
+	list-style: inside;
+	cursor: pointer;
+	font-size: inherit;
+	list-style-type: square
+}
+li.list-group-item:hover 
+{
+	color: var(--main-color)
+}
+.TT_panel h2 {
+    font-size: large;
+}
+.TT_panel {
+    padding: 13px;
+    margin: 10px;
+    border: solid;
+    border-radius: 6px;
+    border-color: var(--main-color);
+    box-shadow: 3px 7px 7px var(--main-color);
+    margin-bottom: 42px;
+    background-color: #171921;
+    width: 315px;
+    border-width: 1px;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    right: -355px;
+
+}
